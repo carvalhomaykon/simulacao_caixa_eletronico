@@ -1,0 +1,30 @@
+--- Banco Banco Açai ---
+
+Número Conta: 12345
+Número da Agência: 101
+
+-----------------------
+
+Fundo de R$ 12,00 adicionado.
+Saldo de R$ 112,00
+
+-----------------------
+
+Saque de R$ 74,00 realizado
+Saldo de R$ 38,00
+
+-----------------------
+
+Tentativa de retirada de saldo. No entanto, saldo abaixo do valor do saque.
+
+-----------------------
+
+Tentativa de retirada de saldo. No entanto, saldo abaixo do valor do saque.
+
+-----------------------
+
+Saque de R$ 2,00 realizado
+Saldo de R$ 36,00
+
+-----------------------
+
